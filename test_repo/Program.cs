@@ -11,6 +11,7 @@ namespace test_repo
             Console.WriteLine("I like GitKraken");
             Console.WriteLine("I like GitKraken");
 
+            Console.WriteLine("Conflict for Kirill");
         }
     }
 }
