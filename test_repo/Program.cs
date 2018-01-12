@@ -9,7 +9,13 @@ namespace test_repo
             Console.ReadKey();
             Console.WriteLine("I like GitKraken");
             Console.WriteLine("I like GitKraken");
+<<<<<<< HEAD
             Console.WriteLine("Conflict for Kirill");
+=======
+            Console.WriteLine("I like GitKrakenvg hkjhbkjl");
+            Console.ReadKey();
+
+>>>>>>> Test
         }
     }
 }
